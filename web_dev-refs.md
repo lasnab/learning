@@ -5,6 +5,8 @@
 - [Basics + Advanced](https://zero-to-mastery.github.io/resources/)
 
 ## Development Tools
+- [Tachyon Quick Setup](https://github.com/dwyl/learn-tachyons)
+
 - [JSON Placeholder Data](https://jsonplaceholder.typicode.com/)
 
 - [CSS Animation Tricks](https://animate.style/)
