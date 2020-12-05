@@ -17,6 +17,8 @@
 
 - [Random Robot Image API](https://robohash.org/)
 
+- [Public APIs for Dev](https://public-apis.xyz/)
+
 ## Templates
 - [Bootstrap Themes #1](https://www.creative-tim.com/bootstrap-themes)
 
