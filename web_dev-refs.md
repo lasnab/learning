@@ -13,6 +13,8 @@
 
 - [JSON Placeholder Data](https://jsonplaceholder.typicode.com/)
 
+- [Versatile Mock Data Generator](https://www.mockaroo.com/)
+
 - [CSS Animation Tricks](https://animate.style/)
 
 - [Random Robot Image API](https://robohash.org/)
